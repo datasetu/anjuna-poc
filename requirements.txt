@@ -1,0 +1,4 @@
+boto3==1.16.43
+pandas==1.2.3
+pandasql==0.7.3
+requests==2.25.1
